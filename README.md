@@ -24,7 +24,7 @@ The exercises are as follows:
 
 **The last two exercises are optional. If there is enough time, I will continue to finish them.**
 
-*In other words, this repo is still being updated. ( I hope )*
+***In other words, this repo is still being updated. ( I hope )***
 
 **I hope I can finish them as soon as possible.**
 
