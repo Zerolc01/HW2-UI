@@ -156,7 +156,7 @@ public class Ch3Ex2Activity extends AppCompatActivity {
         animator3.setRepeatCount(ObjectAnimator.INFINITE);
         animator3.setRepeatMode(ObjectAnimator.REVERSE);
         animator3.setDuration(Integer.parseInt(durationSelector.getText().toString()));
-//        animatorSet2.start();
+//        animator3.start();
 
         // TODO ex2-3: 将上面创建的其他 ObjectAnimator 都添加到 AnimatorSet 中
         animatorSet = new AnimatorSet();
