@@ -18,9 +18,9 @@ The exercises are as follows:
 >
 >TODO ex2-3: 将上面创建的其他 ObjectAnimator 都添加到 AnimatorSet 中
 >
->~~TODO: ex3-1. 添加 ViewPager 和 Fragment 做可滑动界面
+>~~TODO: ex3-1. 添加 ViewPager 和 Fragment 做可滑动界面~~
 >
->TODO: ex3-2, 添加 TabLayout 支持 Tab~~
+>~~TODO: ex3-2, 添加 TabLayout 支持 Tab~~
 
 **The last two exercises are optional. If there is enough time, I will continue to finish them.**
 
